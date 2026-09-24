@@ -1,0 +1,6 @@
+{
+  "name": "KTU Student Portal Redesign",
+  "description": "A modern, student-centric website redesign concept for APJ Abdul Kalam Technological University (KTU), Kerala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
